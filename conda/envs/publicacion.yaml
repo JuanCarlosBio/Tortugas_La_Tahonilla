@@ -1,0 +1,19 @@
+name: tortugas_pub
+
+channels:
+  - conda-forge
+  - r
+  - bioconda
+  - defaults
+
+dependencies:
+  - python
+  - coreutils
+  - ipykernel
+  - notebook
+  - openai
+  - bash
+  - pandas
+  - numpy
+  - r-base
+  - r-tidyverse
