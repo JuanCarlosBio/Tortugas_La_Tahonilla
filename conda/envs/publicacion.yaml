@@ -8,12 +8,11 @@ channels:
 
 dependencies:
   - python
-  - coreutils
   - ipykernel
   - notebook
   - openai
-  - bash
   - pandas
   - numpy
   - r-base
   - r-tidyverse
+  - dotenv
