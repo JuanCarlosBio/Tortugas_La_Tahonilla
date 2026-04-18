@@ -16,3 +16,4 @@ dependencies:
   - r-base
   - r-tidyverse
   - dotenv
+  - geopandas
