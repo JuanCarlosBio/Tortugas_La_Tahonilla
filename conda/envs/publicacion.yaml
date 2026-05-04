@@ -17,3 +17,5 @@ dependencies:
   - r-tidyverse
   - dotenv
   - geopandas
+  - scikit-learn
+  - nltk

@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../BiodiversidadGJC"
+		},
+		{
+			"path": "../flora_especies_protegidas"
 		}
 	],
 	"settings": {}
